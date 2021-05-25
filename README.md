@@ -5,7 +5,7 @@
 - [Harsh .](https://www.github.com/hahaharsh7)
 - [Naval Sai Kishore](https://github.com/naval1418)
 - [Mohit Soni]()
-- [Hitesh Nair]()
+- [Hitesh Nair](https://github.com/hhold)
 
 ## Contents
 
