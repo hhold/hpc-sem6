@@ -1,4 +1,11 @@
-# HPC-Project-DNA
+# HPC-Project-DNA ECE302L Bennett University
+
+## Members and their Github accounts
+- [Gautam Jain](https://www.github.com/gautambitious)
+- [Harsh .](https://www.github.com/hahaharsh7)
+- [Naval Sai Kishore]()
+- [Mohit Soni]()
+- [Hitesh Nair]()
 
 ## Contents
 
