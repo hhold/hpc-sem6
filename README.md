@@ -3,7 +3,7 @@
 ## Members and their Github accounts
 - [Gautam Jain](https://www.github.com/gautambitious)
 - [Harsh .](https://www.github.com/hahaharsh7)
-- [Naval Sai Kishore]()
+- [Naval Sai Kishore](https://github.com/naval1418)
 - [Mohit Soni]()
 - [Hitesh Nair]()
 
